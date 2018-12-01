@@ -1,5 +1,3 @@
-hello world
-
 
 
 
@@ -11,3 +9,7 @@ hello world
 * git status
 
 * git add *
+* git status
+* git commit -m '今天提交的内容'
+* git push
+
