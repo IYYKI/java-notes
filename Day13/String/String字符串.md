@@ -1,8 +1,8 @@
 ## String 字符串
 
-##### 	〉字符串表示：char[] ， String ， StringBuilder	
+##### 		〉字符串表示：char[] ， String ， StringBuilder	
 
-##### 		〉字符串“字面量”都是String类型实例
+##### 				〉字符串“字面量”都是String类型实例
 
 ##### ​			〉_________String_____	内部封装了一个不变的char[] .
 
@@ -14,6 +14,6 @@
 
 ##### ​			〉String 可以使用 equals 比较对象内容相等
 
-##### ​		〉通样内容的字符串 hashCode（）值一致
+##### 		〉通样内容的字符串 hashCode（）值一致
 
 ##### ​	〉字符串中的字符都有序号，从0开始.		
